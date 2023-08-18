@@ -126,7 +126,7 @@ int main() {
         std::cout << "\033c";
         std::cout<<"hello"<<std::endl;
         // 输出进程信息
-        for (const auto&  psInfo : processInfoList) {
+        for (const PsInfo&  psInfo : processInfoList) {
             std::cout << "PID: " << psInfo.pid <<"\t"<<psInfo.name<<endl;
         }
 
