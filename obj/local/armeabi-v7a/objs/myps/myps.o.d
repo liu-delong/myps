@@ -67,7 +67,9 @@
   /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/__split_buffer \
   /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/set \
   /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/__tree \
-  /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/list
+  /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/list \
+  /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/thread \
+  /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/unordered_set
 
 /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/iostream:
 
@@ -206,3 +208,7 @@
 /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/__tree:
 
 /home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/list:
+
+/home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/thread:
+
+/home/xiaosuanliu/android-ndk-r16b/sources/cxx-stl/llvm-libc++/include/unordered_set:
